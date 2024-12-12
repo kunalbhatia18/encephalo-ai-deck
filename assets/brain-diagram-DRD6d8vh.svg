@@ -1,0 +1,12 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <!-- Simple Brain Outline -->
+        <path d="M150 20
+         C90 20, 90 100, 150 100
+         C210 100, 210 20, 150 20Z
+         M150 100
+         C90 100, 90 180, 150 180
+         C210 180, 210 100, 150 100Z" fill="#f0f0f0" stroke="#ccc" strokeWidth="2" />
+        <!-- Add more detailed brain features as needed -->
+    </g>
+</svg>
